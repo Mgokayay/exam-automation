@@ -1,31 +1,310 @@
 [
   {
     "id": 1,
-    "text": "Soru 1",
+    "text": "Aşağıdaki cümlelerden hangisinin yüklemi geçişli bir fiildir?",
     "options": [
       {
         "id": 1,
-        "text": "şık 1",
+        "text": "Küçük kardeşin sana daha çok benziyor.",
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "şık 2",
+        "text": "Sesimi arkadaşıma duyurmak için bağırdım.",
         "isCorrect": false
       },
       {
         "id": 3,
-        "text": "şık 3",
-        "isCorrect": true
+        "text": "Nedense şu sıralar çok geç uyanıyorum.",
+        "isCorrect": false
       },
       {
         "id": 4,
-        "text": "şık 4",
+        "text": "Cüzdanımı almak için eve geri döndüm.",
         "isCorrect": false
       },
       {
         "id": 5,
-        "text": "şık 5",
+        "text": "Dün size uğramam gerektiğini unuttum.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Aşağıdaki cümlelerin hangisi, nesne-yüklem ilişkisi yönüyle ötekilerden farklıdır?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kahvaltı için çay yaparken elimi yaktım.",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "text": "Hafta sonu yakındaki bir göle gideceğiz.",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "text": "O günleri hepimiz hasretle anıyoruz.",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "Yeni öğretmenimizi bütün öğrenciler sevdi.",
+        "isCorrect": false
+      },
+      {
+        "id": 5,
+        "text": "Şimdi iş başvurularımın cevabını bekliyorum.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Aşağıdaki cümlelerin hangisin yüklem etken, geçişsiz bir eylemdir?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Beğendiğiniz antika eşyaları kargoyla adresinize yolladım.",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "text": "Üniversiteyi bitirdikten sonra uzun yıllar bir gazetede çalıştım.",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "text": "Dün girdiğimiz sınavın sonuçları bugün duvardaki panoya asıldı.",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "Öğrenciler, hafta sonu okula gelerek sınıflarını süsledi.",
+        "isCorrect": false
+      },
+      {
+        "id": 5,
+        "text": "Orman yangınıyla mücadelede köylüler de bilinçlendirilmeli.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Roman sözcüğü aşağıdaki cümlelerin hangisinde sözde özne göreviyle kullanılmıştır?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Roman, yaşamı bütünüyle anlatabilen tek yazınsal türdür.",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "text": "Roman, yazarın çok fazla çalışmasını gerektirir.",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "text": "Roman, daha çok, genç yaştaki okurları peşinden sürükler.",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "Roman, okurdan geniş bir hayat görüşü ve dikkatli bir okuma ister.",
+        "isCorrect": false
+      },
+      {
+        "id": 5,
+        "text": "Roman, ancak geniş bir yaşam deneyimine sahip yazarlarca yazılmalıdır.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Aşağıdaki cümlelerden hangisinin yüklemiş işteş bir fiildir?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Gemimiz, zor da olsa iskeleye yanaştı.",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "text": "Yeni geldiğimiz bu şehirde biraz dolaştık.",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "text": "Bineceğimiz otobüse ancak taksi tutarak yetiştik.",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "Otelde ilk iş olarak odalarımıza yerleştik.",
+        "isCorrect": false
+      },
+      {
+        "id": 5,
+        "text": "Dün, kızımın yeni öğretmeniyle tanıştım.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Aşağıdaki cümlelerden hangisinin yüklemi dönüşlü bir eylemdir?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Yol kenarına park eden arabalar çekildi.",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "text": "Kardeşim, düğün için kısa sürede hazırlandı.",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "text": "Okulun sınıfları ve koridorları öğretmenler tarafından boyandı.",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "Sonunda bu köyün yolu da asfaltlandı.",
+        "isCorrect": false
+      },
+      {
+        "id": 5,
+        "text": "Çaylar, ince belli bardaklara döküldü.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Aşağıdaki cümlelerden hangisinin yüklemi öznesine göre işteş, nesnesine göre geçişli bir fiildir?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Pehlivanlar meydanda kıyasıya kapıştılar.",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "text": "Taraflar, görüşülen konu üzerinde anlaştılar.",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "text": "Evden çıkarken kapıda karşılaştılar.",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "Sabahın ilk ışıklarıyla horozlar ötüşüyordu.",
+        "isCorrect": false
+      },
+      {
+        "id": 5,
+        "text": "Kardeşler, babalarının mirasını bölüştüler.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Kültür sözcüğü, aşağıdaki cümlelerin hangisinde sözde özne göreviyle kullanılmıştır?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Kültür, zamanla değişime uğrayabilir.",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "text": "Kültür, toplumu toplum yapan değerlerden oluşur.",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "text": "Kültür, konu olarak bu kitapta ele alınmış.",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "text": "Kültür, sosyal değişikliklere paralel olarak değişim gösterebilir.",
+        "isCorrect": false
+      },
+      {
+        "id": 5,
+        "text": "Kültür, toplumun bütün kesimlerine kendini kabul ettirir.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Aşağıdaki cümlelerden hangisi özne - yüklem ilişkisi yönüyle ötekilerden farklıdır?",
+    "options": [
+      {
+        "id": 1,
+        "text": "İnsanlardan kaçmak için uzun yıllar bu ıssız adada saklanmış.",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "text": "Kışlık yiyecekler bizim çocukluğumuzda kilerde saklanırdı.",
+        "isCorrect": true
+      },
+      {
+        "id": 3,
+        "text": "Kavga ettiği arkadaşını görünce hemencecik saklanmıştı.",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "Saklambaç oynayan çocukların her biri bir yere saklandı.",
+        "isCorrect": false
+      },
+      {
+        "id": 5,
+        "text": "Yaramazlık yapanlar, öğretmen içeri girince saklandılar.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Teyzemler, Yeşilköy'de yeni bir eve taşınmış. Bu cümlenin yüklemi çatısı bakımından, aşağıdaki cümlelerden hangisiyle özdeştir?",
+    "options": [
+      {
+        "id": 1,
+        "text": "Ehliyet almak için kursa yazıldı.",
+        "isCorrect": true
+      },
+      {
+        "id": 2,
+        "text": "Yazarın son kitabı çok tutuldu.",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "text": "Yıllık ödevler kontrol edilip geri verilecek.",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "Sınavda çıkan sorular bir bir çözüldü.",
+        "isCorrect": false
+      },
+      {
+        "id": 5,
+        "text": "Bu konu öğrencilere ayrıntılarıyla anlatıldı.",
         "isCorrect": false
       }
     ]
