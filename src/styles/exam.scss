@@ -1,0 +1,13 @@
+.exam-main {
+  height: 100vh;
+  display: flex;
+
+  .sidebar {
+    width: 10%;
+  }
+
+  .exam {
+    width: 90%;
+    background-color: aqua;
+  }
+}

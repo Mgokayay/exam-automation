@@ -1,7 +1,15 @@
-import React from "react";
+import "../styles/exam.scss";
+import SideBar from "../components/SideBar";
 
 const Exam = () => {
-  return <div>Exam</div>;
+  return (
+    <div className="exam-main">
+      <div className="sidebar">
+        <SideBar />
+      </div>
+      <div className="exam">Exam</div>
+    </div>
+  );
 };
 
 export default Exam;
