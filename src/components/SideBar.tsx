@@ -4,27 +4,27 @@ export default function SideBar() {
   return (
     <div className="sidebar-main">
       <div className="doping-symbol">
-        <img src="/icons/doping-hafiza-logo.svg"></img>
+        <img src="/icons/sidebar/doping-hafiza-logo.svg" />
       </div>
 
       <div className="group1">
-        <img src="/icons/anasayfa.svg"></img>
-        <img src="/icons/dersler.svg"></img>
-        <img src="/icons/sorubankasi.svg"></img>
-        <img src="/icons/denemesinavlari.svg"></img>
-        <img src="/icons/rehberlikvideolari.svg"></img>
-        <img src="/icons/istatistik.svg"></img>
-        <img src="/icons/olcmedegerlendirme.svg"></img>
+        <img src="/icons/sidebar/anasayfa.svg" />
+        <img src="/icons/sidebar/dersler.svg" />
+        <img src="/icons/sidebar/sorubankasi.svg" />
+        <img src="/icons/sidebar/denemesinavlari.svg" />
+        <img src="/icons/sidebar/rehberlikvideolari.svg" />
+        <img src="/icons/sidebar/istatistik.svg" />
+        <img src="/icons/sidebar/olcmedegerlendirme.svg" />
       </div>
 
       <div className="group2">
-        <img src="/icons/cozucu.svg"></img>
-        <img src="/icons/simdianladim.svg"></img>
-        <img src="/icons/kocumyanimda.svg"></img>
+        <img src="/icons/sidebar/cozucu.svg" />
+        <img src="/icons/sidebar/simdianladim.svg" />
+        <img src="/icons/sidebar/kocumyanimda.svg" />
       </div>
 
       <div className="suggest-symbol">
-        <img src="/icons/suggestions.svg"></img>
+        <img src="/icons/sidebar/suggestions.svg" />
       </div>
     </div>
   );
