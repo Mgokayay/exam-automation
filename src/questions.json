@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "text": "Soru 1",
+    "options": [
+      {
+        "id": 1,
+        "text": "şık 1",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "text": "şık 2",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "text": "şık 3",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "text": "şık 4",
+        "isCorrect": false
+      },
+      {
+        "id": 5,
+        "text": "şık 5",
+        "isCorrect": false
+      }
+    ]
+  }
+]
