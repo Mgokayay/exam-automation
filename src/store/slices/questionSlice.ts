@@ -22,7 +22,7 @@ interface QuestionsState {
 
 const initialState: QuestionsState = {
   questions: questionsData,
-  selectedQuestion: null,
+  selectedQuestion: questionsData.length > 0 ? questionsData[0] : null,
   selectedOption: {},
   showAnswers: false,
 };
