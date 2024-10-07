@@ -2,8 +2,8 @@
   background-color: white;
   border-radius: 10px;
   padding: 1rem;
-  margin: 1rem;
   width: 100%;
+  overflow: auto;
 
   .header {
     display: flex;
@@ -23,20 +23,27 @@
     border-radius: 10px;
 
     .questionOrder {
-      width: 30%;
+      width: 20%;
+      font-family: Manrope;
     }
 
     .options {
-      width: 70%;
+      width: 80%;
       display: flex;
       justify-content: space-between;
       margin: 0 0.8rem;
+
+      .option.selected {
+        background-color: #03a9f1;
+        color: white;
+      }
 
       .option {
         border: 1px solid #03a9f1;
         border-radius: 100%;
         width: 1rem;
         padding: 0.4rem;
+        font-family: Manrope;
       }
     }
   }

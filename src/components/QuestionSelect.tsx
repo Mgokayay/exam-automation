@@ -7,7 +7,9 @@ export default function QuestionSelect() {
   const dispatch = useDispatch<AppDispatch>();
 
   const questions = useSelector((state: RootState) => state.question.questions);
-  console.log("Sorular: ", questions);
+  const selectedOption = useSelector(
+    (state: RootState) => state.question.selectedOption
+  );
 
   const optionLabels = ["A", "B", "C", "D", "E"];
 
@@ -30,7 +32,12 @@ export default function QuestionSelect() {
 
           <div className="options">
             {question.options.map((option, index) => (
-              <div key={option.id} className="option">
+              <div
+                key={option.id}
+                className={`option ${
+                  selectedOption[question.id] === option.id ? "selected" : ""
+                }`}
+              >
                 <p>{optionLabels[index]}</p>
               </div>
             ))}
