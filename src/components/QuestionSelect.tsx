@@ -7,6 +7,9 @@ export default function QuestionSelect() {
   const dispatch = useDispatch<AppDispatch>();
 
   const questions = useSelector((state: RootState) => state.question.questions);
+  const selectedQuestion = useSelector(
+    (state: RootState) => state.question.selectedQuestion
+  );
   const selectedOption = useSelector(
     (state: RootState) => state.question.selectedOption
   );
@@ -26,9 +29,11 @@ export default function QuestionSelect() {
         <button
           key={question.id}
           onClick={() => dispatch(selectQuestion(question.id))}
-          className="questions"
+          className={`questions ${
+            selectedQuestion?.id === question.id ? "active" : ""
+          }`}
         >
-          <div className="questionOrder">{question.id}.Soru</div>
+          <div className="questionOrder">{question.id}. Soru</div>
 
           <div className="options">
             {question.options.map((option, index) => (
