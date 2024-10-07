@@ -5,27 +5,27 @@
     "options": [
       {
         "id": 1,
-        "text": "Küçük kardeşin sana daha çok benziyor.",
+        "text": "A) Küçük kardeşin sana daha çok benziyor.",
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "Sesimi arkadaşıma duyurmak için bağırdım.",
+        "text": "B) Sesimi arkadaşıma duyurmak için bağırdım.",
         "isCorrect": false
       },
       {
         "id": 3,
-        "text": "Nedense şu sıralar çok geç uyanıyorum.",
+        "text": "C) Nedense şu sıralar çok geç uyanıyorum.",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "Cüzdanımı almak için eve geri döndüm.",
+        "text": "D) Cüzdanımı almak için eve geri döndüm.",
         "isCorrect": false
       },
       {
         "id": 5,
-        "text": "Dün size uğramam gerektiğini unuttum.",
+        "text": "E) Dün size uğramam gerektiğini unuttum.",
         "isCorrect": true
       }
     ]
@@ -36,27 +36,27 @@
     "options": [
       {
         "id": 1,
-        "text": "Kahvaltı için çay yaparken elimi yaktım.",
+        "text": "A) Kahvaltı için çay yaparken elimi yaktım.",
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "Hafta sonu yakındaki bir göle gideceğiz.",
+        "text": "B) Hafta sonu yakındaki bir göle gideceğiz.",
         "isCorrect": true
       },
       {
         "id": 3,
-        "text": "O günleri hepimiz hasretle anıyoruz.",
+        "text": "C) O günleri hepimiz hasretle anıyoruz.",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "Yeni öğretmenimizi bütün öğrenciler sevdi.",
+        "text": "D) Yeni öğretmenimizi bütün öğrenciler sevdi.",
         "isCorrect": false
       },
       {
         "id": 5,
-        "text": "Şimdi iş başvurularımın cevabını bekliyorum.",
+        "text": "E) Şimdi iş başvurularımın cevabını bekliyorum.",
         "isCorrect": false
       }
     ]
@@ -67,27 +67,27 @@
     "options": [
       {
         "id": 1,
-        "text": "Beğendiğiniz antika eşyaları kargoyla adresinize yolladım.",
+        "text": "A) Beğendiğiniz antika eşyaları kargoyla adresinize yolladım.",
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "Üniversiteyi bitirdikten sonra uzun yıllar bir gazetede çalıştım.",
+        "text": "B) Üniversiteyi bitirdikten sonra uzun yıllar bir gazetede çalıştım.",
         "isCorrect": true
       },
       {
         "id": 3,
-        "text": "Dün girdiğimiz sınavın sonuçları bugün duvardaki panoya asıldı.",
+        "text": "C) Dün girdiğimiz sınavın sonuçları bugün duvardaki panoya asıldı.",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "Öğrenciler, hafta sonu okula gelerek sınıflarını süsledi.",
+        "text": "D) Öğrenciler, hafta sonu okula gelerek sınıflarını süsledi.",
         "isCorrect": false
       },
       {
         "id": 5,
-        "text": "Orman yangınıyla mücadelede köylüler de bilinçlendirilmeli.",
+        "text": "E) Orman yangınıyla mücadelede köylüler de bilinçlendirilmeli.",
         "isCorrect": false
       }
     ]
@@ -98,27 +98,27 @@
     "options": [
       {
         "id": 1,
-        "text": "Roman, yaşamı bütünüyle anlatabilen tek yazınsal türdür.",
+        "text": "A) Roman, yaşamı bütünüyle anlatabilen tek yazınsal türdür.",
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "Roman, yazarın çok fazla çalışmasını gerektirir.",
+        "text": "B) Roman, yazarın çok fazla çalışmasını gerektirir.",
         "isCorrect": false
       },
       {
         "id": 3,
-        "text": "Roman, daha çok, genç yaştaki okurları peşinden sürükler.",
+        "text": "C) Roman, daha çok, genç yaştaki okurları peşinden sürükler.",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "Roman, okurdan geniş bir hayat görüşü ve dikkatli bir okuma ister.",
+        "text": "D) Roman, okurdan geniş bir hayat görüşü ve dikkatli bir okuma ister.",
         "isCorrect": false
       },
       {
         "id": 5,
-        "text": "Roman, ancak geniş bir yaşam deneyimine sahip yazarlarca yazılmalıdır.",
+        "text": "E) Roman, ancak geniş bir yaşam deneyimine sahip yazarlarca yazılmalıdır.",
         "isCorrect": true
       }
     ]
@@ -129,27 +129,27 @@
     "options": [
       {
         "id": 1,
-        "text": "Gemimiz, zor da olsa iskeleye yanaştı.",
+        "text": "A) Gemimiz, zor da olsa iskeleye yanaştı.",
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "Yeni geldiğimiz bu şehirde biraz dolaştık.",
+        "text": "B) Yeni geldiğimiz bu şehirde biraz dolaştık.",
         "isCorrect": false
       },
       {
         "id": 3,
-        "text": "Bineceğimiz otobüse ancak taksi tutarak yetiştik.",
+        "text": "C) Bineceğimiz otobüse ancak taksi tutarak yetiştik.",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "Otelde ilk iş olarak odalarımıza yerleştik.",
+        "text": "D) Otelde ilk iş olarak odalarımıza yerleştik.",
         "isCorrect": false
       },
       {
         "id": 5,
-        "text": "Dün, kızımın yeni öğretmeniyle tanıştım.",
+        "text": "E) Dün, kızımın yeni öğretmeniyle tanıştım.",
         "isCorrect": true
       }
     ]
@@ -160,27 +160,27 @@
     "options": [
       {
         "id": 1,
-        "text": "Yol kenarına park eden arabalar çekildi.",
+        "text": "A) Yol kenarına park eden arabalar çekildi.",
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "Kardeşim, düğün için kısa sürede hazırlandı.",
+        "text": "B) Kardeşim, düğün için kısa sürede hazırlandı.",
         "isCorrect": true
       },
       {
         "id": 3,
-        "text": "Okulun sınıfları ve koridorları öğretmenler tarafından boyandı.",
+        "text": "C) Okulun sınıfları ve koridorları öğretmenler tarafından boyandı.",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "Sonunda bu köyün yolu da asfaltlandı.",
+        "text": "D) Sonunda bu köyün yolu da asfaltlandı.",
         "isCorrect": false
       },
       {
         "id": 5,
-        "text": "Çaylar, ince belli bardaklara döküldü.",
+        "text": "E) Çaylar, ince belli bardaklara döküldü.",
         "isCorrect": false
       }
     ]
@@ -191,27 +191,27 @@
     "options": [
       {
         "id": 1,
-        "text": "Pehlivanlar meydanda kıyasıya kapıştılar.",
+        "text": "A) Pehlivanlar meydanda kıyasıya kapıştılar.",
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "Taraflar, görüşülen konu üzerinde anlaştılar.",
+        "text": "B) Taraflar, görüşülen konu üzerinde anlaştılar.",
         "isCorrect": false
       },
       {
         "id": 3,
-        "text": "Evden çıkarken kapıda karşılaştılar.",
+        "text": "C) Evden çıkarken kapıda karşılaştılar.",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "Sabahın ilk ışıklarıyla horozlar ötüşüyordu.",
+        "text": "D) Sabahın ilk ışıklarıyla horozlar ötüşüyordu.",
         "isCorrect": false
       },
       {
         "id": 5,
-        "text": "Kardeşler, babalarının mirasını bölüştüler.",
+        "text": "E) Kardeşler, babalarının mirasını bölüştüler.",
         "isCorrect": true
       }
     ]
@@ -222,27 +222,27 @@
     "options": [
       {
         "id": 1,
-        "text": "Kültür, zamanla değişime uğrayabilir.",
+        "text": "A) Kültür, zamanla değişime uğrayabilir.",
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "Kültür, toplumu toplum yapan değerlerden oluşur.",
+        "text": "B) Kültür, toplumu toplum yapan değerlerden oluşur.",
         "isCorrect": false
       },
       {
         "id": 3,
-        "text": "Kültür, konu olarak bu kitapta ele alınmış.",
+        "text": "C) Kültür, konu olarak bu kitapta ele alınmış.",
         "isCorrect": true
       },
       {
         "id": 4,
-        "text": "Kültür, sosyal değişikliklere paralel olarak değişim gösterebilir.",
+        "text": "D) Kültür, sosyal değişikliklere paralel olarak değişim gösterebilir.",
         "isCorrect": false
       },
       {
         "id": 5,
-        "text": "Kültür, toplumun bütün kesimlerine kendini kabul ettirir.",
+        "text": "E) Kültür, toplumun bütün kesimlerine kendini kabul ettirir.",
         "isCorrect": false
       }
     ]
@@ -253,27 +253,27 @@
     "options": [
       {
         "id": 1,
-        "text": "İnsanlardan kaçmak için uzun yıllar bu ıssız adada saklanmış.",
+        "text": "A) İnsanlardan kaçmak için uzun yıllar bu ıssız adada saklanmış.",
         "isCorrect": false
       },
       {
         "id": 2,
-        "text": "Kışlık yiyecekler bizim çocukluğumuzda kilerde saklanırdı.",
+        "text": "B) Kışlık yiyecekler bizim çocukluğumuzda kilerde saklanırdı.",
         "isCorrect": true
       },
       {
         "id": 3,
-        "text": "Kavga ettiği arkadaşını görünce hemencecik saklanmıştı.",
+        "text": "C) Kavga ettiği arkadaşını görünce hemencecik saklanmıştı.",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "Saklambaç oynayan çocukların her biri bir yere saklandı.",
+        "text": "D) Saklambaç oynayan çocukların her biri bir yere saklandı.",
         "isCorrect": false
       },
       {
         "id": 5,
-        "text": "Yaramazlık yapanlar, öğretmen içeri girince saklandılar.",
+        "text": "E) Yaramazlık yapanlar, öğretmen içeri girince saklandılar.",
         "isCorrect": false
       }
     ]
@@ -284,27 +284,27 @@
     "options": [
       {
         "id": 1,
-        "text": "Ehliyet almak için kursa yazıldı.",
+        "text": "A) Ehliyet almak için kursa yazıldı.",
         "isCorrect": true
       },
       {
         "id": 2,
-        "text": "Yazarın son kitabı çok tutuldu.",
+        "text": "B) Yazarın son kitabı çok tutuldu.",
         "isCorrect": false
       },
       {
         "id": 3,
-        "text": "Yıllık ödevler kontrol edilip geri verilecek.",
+        "text": "C) Yıllık ödevler kontrol edilip geri verilecek.",
         "isCorrect": false
       },
       {
         "id": 4,
-        "text": "Sınavda çıkan sorular bir bir çözüldü.",
+        "text": "D) Sınavda çıkan sorular bir bir çözüldü.",
         "isCorrect": false
       },
       {
         "id": 5,
-        "text": "Bu konu öğrencilere ayrıntılarıyla anlatıldı.",
+        "text": "E) Bu konu öğrencilere ayrıntılarıyla anlatıldı.",
         "isCorrect": false
       }
     ]
