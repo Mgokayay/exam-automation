@@ -17,3 +17,16 @@
   flex-direction: column;
   gap: 1rem;
 }
+
+.sidebar-main {
+  @media (max-width: 768px) {
+    flex-direction: row;
+    height: auto;
+    padding: 1rem;
+
+    .group1,
+    .group2 {
+      flex-direction: row;
+    }
+  }
+}
