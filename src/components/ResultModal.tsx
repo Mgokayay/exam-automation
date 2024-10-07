@@ -16,8 +16,6 @@ const ResultModal: React.FC<ResultModalProps> = ({
   onClose,
   results,
 }) => {
-  console.log("Modal results: ", results);
-
   if (!isOpen) return null;
 
   return (
