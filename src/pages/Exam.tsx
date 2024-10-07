@@ -48,7 +48,7 @@ const Exam = () => {
   };
 
   const handleEndTest = () => {
-    const results = calculateResults();
+    calculateResults();
     setModalOpen(true);
   };
 
